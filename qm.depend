@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1396102753 source:/home/le/src/cpp/qm/main.cpp
+	<string>
+	<iostream>
+	<pthread.h>
+	<zhelpers.hpp>
+	<boost/format.hpp>
+
